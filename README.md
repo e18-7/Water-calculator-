@@ -1,4 +1,4 @@
-# Water-calculator-
+# Water calculator
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
